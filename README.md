@@ -1,7 +1,7 @@
 ## Hi I'm Fernando Robles :fox_face:
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHyiteZxTPzSQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=1YUbtXfoPZH6y75isWJyCBj07UdH39aaIhTsMn2y81Q" width="30%">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHyiteZxTPzSQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=1YUbtXfoPZH6y75isWJyCBj07UdH39aaIhTsMn2y81Q" width="100%">
   
   <br><br>
   <samp>
